@@ -5,6 +5,9 @@ This is my dotfiles repo, which may not be fancy, but it's mine.
 Over time and owning a number of laptops, I find it takes a little time to get everything set up the way that I like, and I don't always remember all the steps or the most efficient way to get things installed and configured for the first time. Good thing I wrote this guide for myself! Thanks, past me.
 
 # Command Line Tools & Code Editor
+## Change computer name
+TODO
+
 ## Install iTerm
 TODO: link and preferences
 
