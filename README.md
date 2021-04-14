@@ -6,10 +6,10 @@ Over time and owning a number of laptops, I find it takes a little time to get e
 
 ## Command Line Tools & Code Editor
 ### Change computer name
-TODO
+System Preferences > Sharing > Computer Name
 
 ### Install iTerm
-TODO: link and preferences
+https://iterm2.com/
 
 ### Show hidden files
 First, you'll want to make all hidden folders and files visible. 
