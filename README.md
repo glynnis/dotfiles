@@ -12,8 +12,8 @@ System Preferences > Sharing > Computer Name
 https://iterm2.com/
 
 ### Show hidden files
-First, you'll want to make all hidden folders and files visible. 
-TODO: add instructions here
+`defaults write com.apple.Finder AppleShowAllFiles true`
+`killall Finder`
 
 ### Install MacVim
 You'll need to install MacVim, which is easy to do using [Homebrew](https://brew.sh/). 
