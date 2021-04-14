@@ -12,8 +12,9 @@ System Preferences > Sharing > Computer Name
 https://iterm2.com/
 
 ### Show hidden files
-`defaults write com.apple.Finder AppleShowAllFiles true`
-`killall Finder`
+$ `defaults write com.apple.Finder AppleShowAllFiles true`
+
+$ `killall Finder`
 
 ### Install MacVim
 You'll need to install MacVim, which is easy to do using [Homebrew](https://brew.sh/). 
