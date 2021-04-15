@@ -8,6 +8,12 @@ Over time and owning a number of laptops, I find it takes a little time to get e
 ### Change computer name
 System Preferences > Sharing > Computer Name
 
+### Re-map Kinesis Keyboard Keys
+System Preferences > Keyboard > Modifier Keys. Plug in the Kinesis and make sure it's the keyboard selected when changing modifier keys.
+
+![CleanShot 2021-04-15 at 08 39 59](https://user-images.githubusercontent.com/1529366/114905837-06115880-9ddf-11eb-87e4-09438caab825.png)
+
+
 ### Install iTerm
 https://iterm2.com/
 
